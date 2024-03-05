@@ -1,0 +1,124 @@
+{
+    "uzaylılar": [
+        {
+            "id": 1,
+            "title": "Ateş Topu",
+            "img": "",
+            "desc": "Pyros gezegeninden bir Pyronite. Bu pirokinetik uzaylı, Ben'in kullandığı ilk dönüşümdür."
+        },
+        {
+            "id": 2,
+            "title": "Yaban Köpek",
+            "img": "",
+            "desc": "Vulpin gezegeninden bir Vulpimancer. Bu köpeğe benzeyen uzaylı, inanılmaz bir güce ve duyusal becerilere sahiptir."
+        },
+        {
+            "id": 3,
+            "title": "Elmas Kafa",
+            "img": "",
+            "desc": "Kristal gezegen Petropia'dan bir Petrosapien. Kollarını güçlü silahlara çevirebilir."
+        },
+        {
+            "id": 4,
+            "title": "Şimşek Hız",
+            "img": "",
+            "desc": "Kinet gezegeninden bir Kineceleran. O, Ben'in en hızlı uzaylı dönüşümlerinden biridir."
+        },
+        {
+            "id": 5,
+            "title": "Gri Madde",
+            "img": "",
+            "desc": "Galvan Prime gezegeninden bir Galvan. O, Ben'in en küçük dönüşümlerinden biri ayrıca en akıllılarından biri."
+        },
+        {
+            "id": 6,
+            "title": "Dört Kol",
+            "img": "",
+            "desc": "Khoros gezegeninden bir Tetramand. Savaşçı ırkından geliyor ve dört kolu ile birlikte çok güçlü."
+        },
+        {
+            "id": 7,
+            "title": "Pul Kanat",
+            "img": "",
+            "desc": "Lepidopterra gezegeninden bir Lepidopterran. Ben'in ilk uçuş kabiliyetine sahip dönüşümüydü ve gözlerinden yapışkan madde atabilir."
+        },
+        {
+            "id": 8,
+            "title": "Yüzen Çene",
+            "img": "",
+            "desc": "Piscciss gezegeninden bir Piscciss Volann olan Ripjaws'ın karada bacakları ve su altında bir kuyruğu var. Çeneleri çeliği parçalayabilir.Suda nefes alabilir ve iyi yüzücüdür."
+        },
+        {
+            "id": 9,
+            "title": "Güncelleme",
+            "img": "",
+            "desc": "Galvan Prime'ın ayı Galvan B'den bir Galvanik Mechamorph.Upgrade, uygun gördüğü şekilde teknolojiyle birleşme ve yükseltme yeteneğine sahiptir."
+        },
+        {
+            "id": 10,
+            "title": "Gölge Hayalet",
+            "img": "",
+            "desc": "Anur Phaetos gezegeninden bir Ektonurit. Ghostfreak, elle tutulamaz hale gelme ve insanlara sahip olma yeteneğine sahiptir."
+        },
+        {
+            "id": 11,
+            "title": "Yıldırım Gülle",
+            "img": "",
+            "desc": "Yok edilen gezegen Arburia'dan bir Arburian Pelarota. Yüksek yıkıcı yeteneklere sahip hızlı yuvarlanan bir uzaylı olan Cannonbolt, Ben'in ilk on yaşından sonra kilidini açtığı ilk dönüşümdür."
+        },
+        {
+            "id": 12,
+            "title": "Vahşi Asma",
+            "img": "",
+            "desc": "Flors Verdance gezegeninden bir Florauna. Wildvine, asma benzeri uzantılara sahiptir ve sırtındaki tohumlardan bayıltma gazı üretebilir."
+        },
+        {
+            "id": 13,
+            "title": "Baskın Kurt",
+            "img": "",
+            "desc": "Anur Sistemindeki Ay Luna Lobo'dan bir Loboan. Bu form, Yenaldooshi'nin Omnitrix'i ısırmasından sonra Ben'nin oynatma listesine DNA Taraması yapılarak eklendi, Ben'nin DNA Taraması kullanarak elde ettiği ilk uzaylıdır güçlü bir ısırma kuvvetine ve sonik bir ulumaya sahiptir."
+        },
+        {
+            "id": 14,
+            "title": "Snare-oh",
+            "img": "",
+            "desc": "Anur Khufos gezegeninden bir Thep Khufan. O, kağıt inceliğindeki vücudunu ihtiyaç duyduğu şekilde manipüle edebilen mumya benzeri bir dönüşümdür. Parşomen şeklindeki vücut parçaları suda ıslanmazlar ve betonu kırabilecek kadar kuvvetlidirler."
+        },
+        {
+            "id": 15,
+            "title": "Frankenstrike",
+            "img": "",
+            "desc": "Anur Transyl gezegeninden bir Transylian. Sırtındaki Tesla bobinlerinden elektrik yükleri üretebilen güçlü bir dönüşümdür."
+        },
+        {
+            "id": 16,
+            "title": "Kusmuk",
+            "img": "",
+            "desc": "Peptos XII gezegeninden bir Gourmand. Max Tennyson'nın eski uzaylı kız arkadaşı olan Xylene tarafından Ben'nin oynatma listesine verilmiştir. Bir şeyleri yedikten sonra güçlü enerji topları olarak ateşleyebilir."
+        },
+        {
+            "id": 17,
+            "title": "Ditto",
+            "img": "",
+            "desc": "Hathor gezegeninden bir Splixson. Çoğalabilir, anında kendi klonlarını yaratabilir. Ne yazık ki, bir klon bir şekilde bir yerden hasar alırsa diğer klonlarda aynı hasarı aynı yerden hissederler."
+        },
+        {
+            "id": 18,
+            "title": "Göz Tip",
+            "img": "",
+            "desc": "Sightra gezegeninden bir Opticoid. Vücudunun her tarafındaki gözlerden çeşitli türlerde lazerler ateşleyebilir ve farklı lazerlerin ısısını azaltıp çoğaltabilir."
+        },
+        {
+            "id": 19,
+            "title": "Way Big",
+            "img": "",
+            "desc": "Kozmik Fırtınaların kalbinden doğan bir To'kustar, Way Big, Ben'in en büyük dönüşümüdür ve kollarından kozmik ışınlar oluşturabilir."
+        },
+        {
+            "id": 20,
+            "title": "Buz Kertenkelesi",
+            "img": "",
+            "desc": "X'Nelli'den bir Polar Manzardill. Ağzından güçlü dondurucu patlamalar atabilir."
+        }
+    ]
+}
